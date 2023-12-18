@@ -1,0 +1,5 @@
+﻿  ClockModule3.cpp
+C:\Users\Jspiv\Dropbox\Classes\Programming Languages\ClockModule3\ClockModule3\ClockModule3.cpp(70,13): error C2660: 'AddSecond': function does not take 1 arguments
+C:\Users\Jspiv\Dropbox\Classes\Programming Languages\ClockModule3\ClockModule3\ClockModule3.cpp(36,6): message : see declaration of 'AddSecond'
+C:\Users\Jspiv\Dropbox\Classes\Programming Languages\ClockModule3\ClockModule3\ClockModule3.cpp(70,13): message : while trying to match the argument list '(int)'
+C:\Users\Jspiv\Dropbox\Classes\Programming Languages\ClockModule3\ClockModule3\ClockModule3.cpp(43,12): fatal  error C1075: '{': no matching token found
